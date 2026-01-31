@@ -1,0 +1,5 @@
+{
+  "name": "Carbon Accumulator",
+  "description": "A factual, number-driven carbon footprint tracker that visualizes how daily emissions stack up over time, providing concrete real-world equivalents.",
+  "requestFramePermissions": []
+}
