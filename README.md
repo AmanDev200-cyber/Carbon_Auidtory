@@ -2,6 +2,8 @@
 
 **Carbon Auditor** is a sophisticated React-based application designed to perform forensic analysis of your personal carbon footprint. It bridges the gap between individual activity and global infrastructure baselines, providing a direct, numerical integration of user habits over time.
 
+#Link : https://carbonauditor.netlify.app/
+
 ## 🚀 Features
 
 *   **Detailed Activity Logging**: Input daily habits across categories:
